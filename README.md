@@ -1,5 +1,12 @@
 A simple hello world express server. Run it in the terminal with
 
+Install Dependencies:
+
+```
+npm install
+```
+Then start the server:
+
 ```
 npm run start
 ```
